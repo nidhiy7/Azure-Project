@@ -1,196 +1,196 @@
 Year,Month - name,Month -sequence,Date,Business Line,Amount,Expense subgroup,Revenue / Expense Group,Revenue or expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,153000,,Sales,Revenue
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,27000,,Consulting and professional services,Revenue
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,9000,Equipment,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,30000,Marketing,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,1500,Other,Opex,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,1200,Packaging,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,2700,Shipping,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,3000,Sales,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,2100,Other,COGS,Expense
-2023,January,1,1/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,22500,,Consulting and professional services,Revenue
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,137700,,Sales,Revenue
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,13500,,Consulting and professional services,Revenue
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,3000,,Other income,Revenue
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,9000,Equipment,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,30000,Marketing,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,1500,Other,Opex,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,1200,Packaging,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,2400,Shipping,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,3000,Sales,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,1800,Other,COGS,Expense
-2023,February,1,2/28/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,19800,,Consulting and professional services,Revenue
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,16200,,Consulting and professional services,Revenue
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,114750,,Sales,Revenue
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,3600,,Other income,Revenue
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,9000,Equipment,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,15000,Marketing,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,900,Other,Opex,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,1500,Shipping,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,2100,Sales,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,1500,Other,COGS,Expense
-2023,March,1,3/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,90000,,Consulting and professional services,Revenue
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,91800,,Sales,Revenue
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,10800,,Consulting and professional services,Revenue
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,3300,,Other income,Revenue
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,9000,Equipment,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,15000,Marketing,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,900,Other,Opex,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,1500,Shipping,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,1800,Sales,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,3000,Other,COGS,Expense
-2023,April,1,4/30/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,10800,,Consulting and professional services,Revenue
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,18900,,Consulting and professional services,Revenue
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,137700,,Sales,Revenue
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,1500,,Other income,Revenue
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,11400,Equipment,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,30000,Marketing,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,1200,Other,Opex,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,1200,Packaging,COGS,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,2400,Shipping,COGS,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,2700,Sales,COGS,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,May,1,5/31/2023,Nutrition and Food Supplements ,3000,Other,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,168300,,Sales,Revenue
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,1200,,Other income,Revenue
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,11400,Equipment,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,30000,Marketing,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,900,Other,Opex,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,900,Packaging,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,2700,Shipping,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,2400,Sales,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,65000,Labor,COGS,Expense
-2023,June,1,6/30/2023,Nutrition and Food Supplements ,3000,Other,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,130050,,Sales,Revenue
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,11400,Equipment,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,20000,Marketing,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,600,Other,Opex,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,1500,Shipping,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,1800,Sales,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,July,1,7/31/2023,Nutrition and Food Supplements ,3000,Other,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,114750,,Sales,Revenue
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,3000,,Other income,Revenue
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,11400,Equipment,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,15000,Marketing,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,40000,Payroll,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,600,Other,Opex,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,1500,Shipping,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,1800,Sales,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,August,1,8/31/2023,Nutrition and Food Supplements ,3000,Other,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,122400,,Sales,Revenue
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,3990,,Other income,Revenue
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,11400,Equipment,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,15000,Marketing,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,32000,Payroll,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,900,Other,Opex,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,1200,Shipping,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,1800,Sales,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,September,1,9/30/2023,Nutrition and Food Supplements ,2100,Other,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,110925,,Sales,Revenue
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,9000,,Other income,Revenue
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,12000,Equipment,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,15000,Marketing,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,32000,Payroll,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,600,Other,Opex,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,600,Packaging,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,1200,Shipping,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,1800,Sales,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,October,1,10/31/2023,Nutrition and Food Supplements ,2100,Other,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,108630,,Sales,Revenue
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,12000,Equipment,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,20000,Marketing,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,32000,Payroll,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,1200,Other,Opex,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,900,Packaging,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,900,Shipping,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,2100,Sales,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,November,1,11/30/2023,Nutrition and Food Supplements ,1800,Other,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,12000,Interest and tax,Interest and tax,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,141525,,Sales,Revenue
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,9000,,Other income,Revenue
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,15000,Rent,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,12000,Equipment,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,30000,Marketing,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,32000,Payroll,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,30000,R&D,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,2400,Other,Opex,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,20000,Materials,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,1200,Packaging,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,2100,Shipping,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,2700,Sales,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,50000,Labor,COGS,Expense
-2023,December,1,12/31/2023,Nutrition and Food Supplements ,2100,Other,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,153000,,Sales,Revenue
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,27000,,Consulting and professional services,Revenue
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,6000,,Other income,Revenue
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,Equipment,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,Marketing,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Other,Opex,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Packaging,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2700,Shipping,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Sales,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Other,COGS,Expense
+2023,January,1,1/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,22500,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,,Consulting and professional services,Revenue
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,137700,,Sales,Revenue
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,13500,,Consulting and professional services,Revenue
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,,Other income,Revenue
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,Equipment,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,Marketing,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Other,Opex,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Packaging,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,2400,Shipping,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Sales,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Other,COGS,Expense
+2023,February,1,2/28/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,19800,,Consulting and professional services,Revenue
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,16200,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,114750,,Sales,Revenue
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3600,,Other income,Revenue
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,Equipment,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Marketing,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Other,Opex,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Shipping,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Sales,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Other,COGS,Expense
+2023,March,1,3/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,90000,,Consulting and professional services,Revenue
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,,Consulting and professional services,Revenue
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,91800,,Sales,Revenue
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,10800,,Consulting and professional services,Revenue
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,3300,,Other income,Revenue
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,Equipment,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Marketing,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Other,Opex,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Shipping,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Sales,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Other,COGS,Expense
+2023,April,1,4/30/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,10800,,Consulting and professional services,Revenue
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,18900,,Consulting and professional services,Revenue
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,137700,,Sales,Revenue
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,,Other income,Revenue
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,11400,Equipment,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,Marketing,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Other,Opex,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Packaging,COGS,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2400,Shipping,COGS,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2700,Sales,COGS,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,May,1,5/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Other,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,168300,,Sales,Revenue
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,,Other income,Revenue
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,11400,Equipment,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,Marketing,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Other,Opex,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Packaging,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,2700,Shipping,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,2400,Sales,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,65000,Labor,COGS,Expense
+2023,June,1,6/30/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Other,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,130050,,Sales,Revenue
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,6000,,Other income,Revenue
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,11400,Equipment,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Marketing,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Other,Opex,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Shipping,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Sales,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,July,1,7/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Other,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,114750,,Sales,Revenue
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,,Other income,Revenue
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,11400,Equipment,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Marketing,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,40000,Payroll,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Other,Opex,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1500,Shipping,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Sales,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,August,1,8/31/2023,NutritionÂ andÂ Food SupplementsÂ ,3000,Other,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,122400,,Sales,Revenue
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,3990,,Other income,Revenue
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,11400,Equipment,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Marketing,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,32000,Payroll,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Other,Opex,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Shipping,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Sales,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,September,1,9/30/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Other,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,110925,,Sales,Revenue
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,,Other income,Revenue
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Equipment,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Marketing,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,32000,Payroll,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Other,Opex,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,600,Packaging,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Shipping,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Sales,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,October,1,10/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Other,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,108630,,Sales,Revenue
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,6000,,Other income,Revenue
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Equipment,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Marketing,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,32000,Payroll,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Other,Opex,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Packaging,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,900,Shipping,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Sales,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,November,1,11/30/2023,NutritionÂ andÂ Food SupplementsÂ ,1800,Other,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Interest and tax,Interest and tax,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,141525,,Sales,Revenue
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,9000,,Other income,Revenue
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,15000,Rent,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,12000,Equipment,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,Marketing,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,32000,Payroll,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,30000,R&D,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2400,Other,Opex,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,20000,Materials,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,1200,Packaging,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Shipping,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2700,Sales,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,50000,Labor,COGS,Expense
+2023,December,1,12/31/2023,NutritionÂ andÂ Food SupplementsÂ ,2100,Other,COGS,Expense
 2023,January,1,1/31/2023,Sports equipment,700000,,Sales,Revenue
 2023,January,1,1/31/2023,Sports equipment,24000,,Other income,Revenue
 2023,January,1,1/31/2023,Sports equipment,18000,Rent,Opex,Expense
